@@ -1,0 +1,2 @@
+SINADEF_DATOS_ABIERTOS_11022021.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
